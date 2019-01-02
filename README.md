@@ -7,6 +7,8 @@ Basically, our project concerned to work in our country, to make a bridge betwee
 
 We used Javascript as a main language for the front and back-end.
 
-![Screenshot](main.png)
+![Screenshot](homepage.png)
+![Screenshot](homepage2.png)
+![Screenshot](homepage3.png)
 
 
