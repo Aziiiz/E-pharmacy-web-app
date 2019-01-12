@@ -24,10 +24,10 @@ We used Javascript as a main language for the front and back-end.
 #####    "hbs": "~4.0.1",
 #####    "http-errors": "~1.6.2",
 #####    "mongoose": "^5.3.15",
-    "morgan": "~1.9.0",
-    "passport": "^0.4.0",
-    "passport-local": "^1.0.0",
-    "stripe": "^6.19.0"
+#####    "morgan": "~1.9.0",
+#####    "passport": "^0.4.0",
+#####    "passport-local": "^1.0.0",
+#####    "stripe": "^6.19.0"
 
 ![Screenshot](homepage.png)
 ![Screenshot](homepage2.png)
